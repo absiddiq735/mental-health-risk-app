@@ -7,3 +7,7 @@ for professional mental-health assessment.
 
 Methodology for this project:
 "First predict depression-related emotions, then transform those predictions into risk levels, then cluster similar expressions, and finally provide real-time inference."
+
+
+## Huggingface Deployment Link:
+https://huggingface.co/spaces/absiddiq735/Mental_Health_Risk_Analysis_Detector
